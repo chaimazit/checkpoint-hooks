@@ -10,3 +10,4 @@ const Filter = ({title,setTitle}) => {
 }
 
 export default Filter
+
